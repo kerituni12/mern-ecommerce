@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@admin/*": ["modules/Admin/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
