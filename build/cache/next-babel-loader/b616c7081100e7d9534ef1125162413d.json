@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Product from '@admin/Product/Product.container';\nexport default Product;","map":null,"metadata":{},"sourceType":"module"}

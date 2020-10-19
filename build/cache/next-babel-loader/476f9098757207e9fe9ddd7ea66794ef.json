@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useLayoutEffect, useEffect } from 'react';\nconst useIsomorphicLayoutEffect = false ? useLayoutEffect : useEffect;\nexport default useIsomorphicLayoutEffect;","map":null,"metadata":{},"sourceType":"module"}
